@@ -25,15 +25,6 @@ Olá! Sou o **Whoshington Luis**, sou um desenvolvedor apaixonado por construir 
 
 ---
 
-### 📊 GitHub Stats:
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Whoshington-Dev&show_icons=true&theme=teal&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whoshington-Dev&layout=compact&theme=teal"/>
-</div>
-
----
-
 ### 📫 Vamos nos conectar?
 
 <div align="left">
