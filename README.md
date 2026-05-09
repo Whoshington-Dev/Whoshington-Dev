@@ -1,6 +1,7 @@
 <div align="center">
-  <img width="736" height="379" alt="download" src="https://github.com/user-attachments/assets/790f03de-c944-4e45-86ff-3c9059652159" />
+  <img src="https://github.com" width="850" alt="Banner de Programação">
 </div>
+
 
 
 ### 🚀 Desenvolvedor Backend | Especialista em C# e .NET 
