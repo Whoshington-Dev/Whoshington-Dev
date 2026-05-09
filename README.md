@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=70c1b3&height=200&section=header&text=Whoshington%20Luis&fontSize=70&animation=fadeIn&fontAlignY=38"  width="100%" />
+  <img width="736" height="379" alt="download" src="https://github.com/user-attachments/assets/790f03de-c944-4e45-86ff-3c9059652159" />
 </div>
+
 
 ### 🚀 Desenvolvedor Backend | Especialista em C# e .NET 
 **Transformando Ideias em Soluções**
@@ -44,9 +45,4 @@ Olá! Sou o **Whoshington Luis**, sou um desenvolvedor apaixonado por construir 
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
-**📧 E-mail direto:** [wtmaker@proton.me](mailto:wtmaker@proton.me)
-
 <br />
-
-> *"O código é como humor. Se você tem que explicar, é ruim."*
