@@ -1,10 +1,3 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/bba85331-35b9-4c39-a560-0e182af0abd2" width="700" alt="Banner de programação">
-</div>
-
-
-
-
 ### 🚀 Desenvolvedor Backend | Especialista em C# e .NET 
 **Transformando Ideias em Soluções**
 
